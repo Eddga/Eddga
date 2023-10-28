@@ -1,5 +1,14 @@
-### Hi there 👋
+### Oh .. you? ... Here? Happy to see you ❤️
 
+I still feel pretty lost in the big github space.
+Feeling more comfortable every day though I guess.
+I'm not a programmer. Really I'm not..
+
+All I do is occassionally writing PowerShell scripts mostly for my work to automate some mostly Active Directory related stuff.
+I taught myself that. And I guess that shows in the cleanliness and quality of the code. 🐈
+But the main thing is that it works! Right? Right!! Right...? 🐈‍⬛
+
+I really would be happy to be taught some real (PS) programming power from someone else sometime!
 <!--
 **Eddga/Eddga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
